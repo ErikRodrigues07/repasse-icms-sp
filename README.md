@@ -100,21 +100,6 @@ Verifique os containers em execução:
 docker ps
 ```
 
-### 4. Instalar as dependências Python
-
-Instale as bibliotecas necessárias:
-
-```bash
-pip install -r requirements.txt
-```
-
-### 5. Instalar os navegadores do Playwright
-
-Execute:
-
-```bash
-playwright install
-```
 
 ## Execução
 
